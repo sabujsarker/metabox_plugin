@@ -3,7 +3,7 @@
     padding: 0;
 }@import url('https://fonts.googleapis.com/css?family=Josefin+Slab|Open+Sans|Oswald|Raleway|Roboto&display=swap');
 .banner{
-    background: url(../img/image\ book\ opt\ in.png) center;
+    background: url(../img/image\ book\ opt\ in.png) center 100%;
     height: auto;
     padding-top: 36px;
 }

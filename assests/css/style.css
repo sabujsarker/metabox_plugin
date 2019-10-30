@@ -1,0 +1,200 @@
+*{
+    margin: 0;
+    padding: 0;
+}@import url('https://fonts.googleapis.com/css?family=Josefin+Slab|Open+Sans|Oswald|Raleway|Roboto&display=swap');
+.banner{
+    background: url(../img/image\ book\ opt\ in.png) center;
+    height: auto;
+    padding-top: 36px;
+}
+h1,h2{
+    font-family: 'Oswald', sans-serif;
+}
+ul li{
+    list-style: none;
+    margin-bottom: 20px;
+}
+.E95E09{
+    color: #E95E09;
+}
+.banner h1 {
+    text-transform: uppercase;
+    font-family: 'Oswald', sans-serif;
+    font-weight: bold;
+    margin-bottom: 20px;
+    font-size: 2.8125em;
+}
+
+
+.banner h2 {
+    font-weight: bold;
+    margin-top: 10px;
+    margin-bottom: 40px;
+}
+.banner-from {
+    padding: 30px 5px 60px;
+    background: #0301009e;
+    height: auto;
+    border-radius: 15px;
+    width: 75%;
+    margin: 0 auto;
+}
+.banner-from p {
+    color: white;
+    font-size: 1.25em;
+}
+
+.banner input {
+    width: 95%;
+    margin-top: 13px;
+    padding: 5px 5px;
+    font-size: 1.25em;
+    position: relative;
+    font-family: 'Open Sans', sans-serif;
+    background: white;
+    border-radius: 4px;
+    border: none;
+}
+.banner i {
+    position: absolute;
+    bottom: 50%;
+    right: 20%;
+    color: black;
+}
+
+i.far.fa-envelope {
+    bottom: 37%;
+}
+.se_1_bg {
+    width: 73%;
+    margin: 0 auto;
+    background: #CD5D1E;
+    color: white;
+    padding: 20px 25px;
+}
+
+.se_1_bg h5 {
+    font-size: 1.565em;
+    font-family: "Charter";
+    font-weight: bold;
+}
+.sec_1_all h3 {
+    font-size: 2.5em;
+    color: #d83d36;
+    font-family: "Comic Sans MS";
+    font-weight: bold;
+    margin-top: 50px;
+    margin-bottom: 60px;
+}
+.sec_1_all h2 {
+    padding-top: 65px;
+    padding-bottom: 30px;
+    width: 85%;
+    font-size: 2.5em;
+    color: #282828;
+    font-weight: bold;
+    margin: 0 auto;
+    font-family: 'Oswald', sans-serif;
+}
+ul.list {
+    list-style: none;
+    text-align: left;
+    font-size: 1.25em;
+    color: #090909;
+    font-family: cursive;
+    line-height: 1.5;
+}
+span.round {
+    border: 4px solid #F2EC7A;
+    border-radius: 50%;
+    padding: 15px;
+}
+.list-button-group {
+    margin-left: 45%;
+    margin-top: 40px;
+    width: 41%;
+}
+a.list-btn {
+    font-size: 1.1875em;
+    color: #000000;
+    font-weight: bold;
+    display: block;
+    padding: 17px;
+    margin-top: 23px;
+    font-family: 'Oswald', sans-serif;
+    background: rgb(237,109,11);
+    background: linear-gradient(90deg, rgba(237,109,11,1) 13%, rgba(251,202,0,1) 50%, rgba(237,109,11,1) 87%);
+    text-decoration: none;
+}
+section.find_inside.text-center h2 {
+    margin-bottom: 45px;
+    font-size: 2.625em;
+    margin-right: 100px;
+    padding-top: 105px;
+}
+ul.page-list li {
+    background: #F6F6F6;
+    list-style: none;
+    width: 71%;
+    float: right;
+    text-align: left;
+    border-radius: 4px;
+    padding: 10px 30px;
+}
+img.img-responsive.small_business {
+    align-items: center;
+}
+
+span.page_content {
+    margin-left: 40px;
+    font-weight: bold;
+}
+
+span.page_number {
+    text-transform: capitalize;
+    color: #EE750A;
+    font-weight: 500;
+}
+
+ul.page-list li a {
+    text-decoration: none;
+    font-size: 1.2em;
+    color: black;
+    font-family: 'Roboto', sans-serif;
+}
+.upercash{
+    text-transform: uppercase;
+}
+.alien-center{
+    align-items: center;
+}
+.bio h2 {
+    font-size: 2.625em;
+    text-align: center;
+    margin-bottom: 55px;
+}
+.bio img.img-responsive {
+    width: 100%;
+}
+img.book4 {
+    margin-top: 55px;
+}
+footer {
+    background: #293946;
+    color: white;
+    padding: 25px 0px;
+}a.footer_button.list-btn {
+    text-align: center;
+    margin-bottom: 22px;
+}
+.container.footer-width {
+    width: 76%;
+    margin: 0 auto;
+}
+
+img.footer-logo {
+    float: right;
+}
+footer p {
+    font-size: 1.25em;
+}
